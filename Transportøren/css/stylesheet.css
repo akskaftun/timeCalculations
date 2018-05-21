@@ -1,0 +1,39 @@
+.header{
+	margin: 5px;
+}
+.topp{
+	background-color:#D6BE38;
+	background-size: contain;
+	padding: 20px;
+}
+.overskrift{
+	float: right;
+}
+.meny{
+	float:right;
+	list-style-type: none;
+}
+.innhold {
+	background-image: url(img/Transportoren.jpg);
+}
+h1{
+	font-size: 40px;
+	font-weight: 200;
+	padding: 5px 15px;
+
+}
+body {
+	margin: 0px;
+
+}
+.innhold{
+	padding: 180px 0 100px 0;
+	background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+
+p{
+	margin: 5px 5px 20px 5px;
+}
